@@ -1,19 +1,46 @@
-# About Me
-Hello my name is Vivian Pan, and I am currently a third year student at the University of Washington double majoring in Information Systems and Finance with a minor in Computer Science.
-I'm interested in delivering solutions that make the end user's life easier, while keeping it visually pleasing.
+# Getting Started with Create React App
 
-# Projects
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Choclolate Analysis ML
-https://github.com/vivianvp/Vivian-pan-projects/blob/main/ML_Chocolate_Analysis.ipynb
+## Available Scripts
 
-Managers at companies often have to analyze sales performance to make strategic decisions that impact the sales, marketing, and HR departments. The impact of their decisions could potentially affect the company’s product portfolio, HR decisions, and marketing campaign focuses. In order to ensure their decisions are well educated, many companies perform detailed analysis on these sales reports.
+In the project directory, you can run:
 
-I will simulate this analysis on an example data set that a chocolate selling company may have and give recommendations based on the analysis results.
+### `npm start`
 
-Skills Showcased:
-- Visualization
-- ML
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-<img width="645" alt="Screenshot 2024-02-27 at 2 24 52 PM" src="https://github.com/vivianvp/Vivian-pan-projects/assets/112599337/e37199d9-fdeb-462e-8c62-ab6c72488ad3">
-<img width="1247" alt="Screenshot 2024-02-27 at 2 25 52 PM" src="https://github.com/vivianvp/Vivian-pan-projects/assets/112599337/66d09745-4933-43b8-8c21-f9d64c4b81ed">
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
